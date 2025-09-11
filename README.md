@@ -6,7 +6,7 @@
 - 📊 I enjoy creating **dashboards, predictive models, and business insights**  
 - 🌱 Passionate about turning raw data into **stories that drive smarter decisions**  
 - 🚀 Always exploring ways to apply data to solve **real-world business challenges**  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mohammad-navaman-jamadar/) | [Email](mailto:noumanjamadar123@gmail.com)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mohammad-navaman-jamadar/) | [Email](mailto:noumanjamadar123@gmail.com) | [Portfolio](https://codebasics.io/portfolio/Mohammad-Navaman-Jamadar)  
 
 ---
 
