@@ -26,7 +26,7 @@
 ---
 
 ### 📌 Featured Projects  
-
+- [📊 Business Insights 360](https://github.com/noumanjamadar/Business_insights_360)
 - [📈 AtliQ Hardware: Excel Sales & Finance Analysis](https://github.com/noumanjamadar/AtliQ_Hardware_Excel_Sales_and_Finance_Analysis) – Interactive dashboards using Excel, Power Query & DAX.
 - [📉 AtliQ Hardware Scenario Planning & Discount Optimization](https://github.com/noumanjamadar/AtliQ_Hardware_Scenario_Planning_Discount_Optimization) – Built financial models to simulate discount scenarios, evaluate strategies, and optimize profit margins.
 - [🛠️ Bulldozer Price Prediction](https://github.com/noumanjamadar/Bulldozer_Price_Prediction) – ML model predicting auction prices (R² = 0.88).  
