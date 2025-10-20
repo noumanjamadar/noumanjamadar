@@ -27,6 +27,7 @@
 
 ### 📌 Featured Projects  
 - [📊 Business Insights 360](https://github.com/noumanjamadar/Business_insights_360) - Built a unified Power BI solution across Finance, Sales, Marketing, Supply Chain, and an Executive Dashboard to enable business stakeholders to make data-driven decisions, driving growth and profitability.
+- [📊 SHIELD INSURANCE – Business Performance & Customer Insights Dashboard](https://github.com/noumanjamadar/Shield-Insurance-Business-Performance-Customer-Insights-Dashboard) - Built a unified Power BI solution analyzing Shield Insurance’s Revenue, Sales Channels, and Customer Demographics — empowering data-driven decisions for growth and profitability.
 - [📊 SQL-Driven Ad-hoc Business Insights](https://github.com/noumanjamadar/SQL_Driven_Ad-hoc_Business_Insights) - 10 ad-hoc business requests solved using SQL queries for Consumer Goods (FMCG) domain.
 - [📈 AtliQ Hardware: Excel Sales & Finance Analysis](https://github.com/noumanjamadar/AtliQ_Hardware_Excel_Sales_and_Finance_Analysis) – Interactive Report using Excel, Power Query & DAX.
 - [📉 AtliQ Hardware Scenario Planning & Discount Optimization](https://github.com/noumanjamadar/AtliQ_Hardware_Scenario_Planning_Discount_Optimization) – Built financial models to simulate discount scenarios, evaluate strategies, and optimize profit margins.
